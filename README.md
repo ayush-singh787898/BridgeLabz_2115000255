@@ -1,79 +1,99 @@
-# BridgeLabz Java Assignments
----
-Welcome to my repository for BridgeLabz Java Assignments. Below is the summary of the topics covered, assignment details, and the respective branch for each.
+# BridgeLabz Java Assignments  
 
-Table of Contents
-- Introduction
- Class Topics and Assignments
-    - [January 19, 2025]()
-    - [January 18, 2025]()
-    - [January 17, 2025]()
-Branches
-- [How to Run]()
-- [Contact Information]()
-Introduction
-This repository contains all the assignments and topics covered in BridgeLabz Java course. Every assignment is stored in separate branches, and each assignment corresponds to a particular date of the class.
+Welcome to my repository for *BridgeLabz Java Assignments*! 🚀  
+This repository contains all my Java learning progress, assignments, and concepts covered during my training.  
 
-## Class Topics and Assignments
+---  
 
-**January 16, 2025**
+## 📌 Table of Contents  
 
-| **Topics covered in class** |
-|-------------------------|
-| Installation of Git and WSL |
-| Basic Linux Commands |
+- [Introduction](#introduction)  
+- [Progress Tracker](#progress-tracker)  
+- [Class Topics and Assignments](#class-topics-and-assignments)  
+- [How to Run](#how-to-run)  
+- [Contact Information](#contact-information)  
 
+---  
 
+## 📖 Introduction  
 
-Class Topics and Assignments
-January 19, 2025
-Assignment	Topic Covered	Branch Name
-Welcome to Bridgelabz	Introduction to Java	feature_19_01_2025
-Add Two Numbers	Basic Input/Output and Arithmetic	feature_19_01_2025
-Celsius to Fahrenheit Conversion	Temperature Conversion	feature_19_01_2025
-Area of a Circle	Math Operations and User Input	feature_19_01_2025
-Volume of a Cylinder	3D Geometry and Math Operations	feature_19_01_2025
-January 18, 2025
-Assignment	Topic Covered	Branch Name
-Calculate Simple Interest	Financial Calculations (Simple Interest)	feature_18_01_2025
-Perimeter of a Rectangle	Geometry and Perimeter Calculation	feature_18_01_2025
-Power Calculation	Math Operations (Exponentiation)	feature_18_01_2025
-Calculate Average of Three Numbers	Basic Average Calculation	feature_18_01_2025
-Convert Kilometers to Miles	Unit Conversion (Distance)	feature_18_01_2025
-January 17, 2025
-Assignment	Topic Covered	Branch Name
-Assignment 1	Introduction to Java	feature_17_01_2025
-Assignment 2	Variables and Data Types	feature_17_01_2025
-Branches
-Each assignment is committed and pushed to a separate branch. Below is the summary of the branches for your reference:
+This repository documents my journey through Java programming at *BridgeLabz*. Each assignment is organized systematically in different branches, corresponding to the respective class date. This structured approach helps in tracking learning progress effectively.  
 
-feature_19_01_2025: Contains assignments from January 19, 2025
-feature_18_01_2025: Contains assignments from January 18, 2025
-feature_17_01_2025: Contains assignments from January 17, 2025
-How to Run
-Clone this repository:
-` git clone https://github.com/ayush-singh787898/BridgeLabz_2115000255.git `
+---  
 
-# BridgeLabz_2115000255
+## 📅 Progress Tracker  
 
+### *BridgeLabz-51 Progress Tracker*  
 
+#### Date: 16-01-25  
+✅ Installed Git Bash.  
+✅ Learned the basics of Git and GitHub.  
 
-# Day-2 Assignment Added
-##  BridgeLabz_2115000255
+#### Date: 17-01-25  
+✅ Practiced basic Git Bash commands.  
+✅ Started working on IntelliJ IDEA for Java development.  
 
-# Day-3 Assignment Added
+#### Date: 18-01-25  
+✅ Learned Java basic concepts.  
+✅ Practiced Java syntax for a better understanding of the language.  
 
-# Day-4 Assignment Added
+#### Date: 19-01-25  
+✅ Covered Java fundamentals and basic syntax.  
+✅ Solved an assignment based on Java basics.  
+✅ Learned Git branching and how to manipulate GitHub data using Git and Git Bash.  
+✅ Practiced cloning projects from open-source repositories to the local environment.  
 
-# Day-5 Assignment Add
- ## Assignment of 27-01-2025 has completed 
- ## Assignment of 28-01-2025 has completed 
- ## Assignment of 30-01-2025 has completed 
+#### Date: 22-01-25  
+✅ Solved Level 1 and Level 2 assignments, strengthening Java syntax and fundamentals.  
 
- ##  ## Assignment of 31-01-2025 has completed which is based on Constructor
+#### Date: 23-01-25  
+✅ Completed assignments focusing on Java Control Flows (if-else, loops).  
 
+#### Date: 25-01-25  
+✅ Practiced Basics of Arrays and Multi-Dimensional Arrays in Java.  
 
+#### Date: 28-01-25  
+✅ Focused on method calling and recursive methods, using java.lang.Math.  
 
+#### Date: 29-01-25  
+✅ Solved problems on built-in functions and string handling.  
 
+#### Date: 30-01-25  
+✅ Explored method calling using objects and multiple methods in Java.  
 
+#### Date: 31-01-25  
+✅ Learned about Cohesion and Coupling, inter-module bonding, and dependencies.  
 
+#### Date: 02-02-25  
+✅ Studied `this` keyword and encapsulation for clear attribute initialization.  
+
+#### Date: 03-02-25  
+✅ Implemented OOP concepts, including instance methods and `instanceof`.  
+
+---  
+
+## 📚 Class Topics and Assignments  
+
+| 📅 Date      | 📝 Task / Topic                                    | 🌿 Branch Name          |  
+|-------------|--------------------------------------------------|------------------------|  
+| 16-01-25    | Installation of Git, WSL & Linux Commands         | feature_16_01_2025  |  
+| 17-01-25    | Git and GitHub Commands                           | feature_17_01_2025  |  
+| 18-01-25    | Connect to GitHub Using SSH, Java Basics         | feature_18_01_2025  |  
+| 19-01-25    | Java Basic Practice Problems, Arithmetic Ops     | feature_19_01_2025  |  
+| 22-01-25    | Java Assignments (Loops, Arrays)                 | feature_22_01_2025  |  
+| 23-01-25    | Java Control Flows, Conditional Statements       | feature_23_01_2025  |  
+| 25-01-25    | Arrays and Multi-Dimensional Arrays              | feature_25_01_2025  |  
+| 28-01-25    | Method Calling and Recursive Methods             | feature_28_01_2025  |  
+| 29-01-25    | Built-in Functions & String Handling             | feature_29_01_2025  |  
+| 30-01-25    | Object Methods and Function Calls                | feature_30_01_2025  |  
+| 31-01-25    | Cohesion, Coupling, Class Dependencies           | feature_31_01_2025  |  
+| 02-02-25    | `this` Keyword and Encapsulation                 | feature_02_02_2025  |  
+| 03-02-25    | OOP, Instance Methods, `instanceof`              | feature_03_02_2025  |  
+
+---  
+
+## 🚀 How to Run  
+
+1. Clone this repository:  
+   ```sh
+   git clone https://github.com/ayush-singh787898/BridgeLabz_2115000255.git
