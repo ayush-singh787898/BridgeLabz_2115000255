@@ -1,0 +1,5 @@
+
+This is a sample text file.
+It contains multiple lines of text.
+File handling in Java is simple and efficient.
+End of sample file.
