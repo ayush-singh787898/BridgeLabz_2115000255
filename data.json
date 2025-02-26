@@ -1,0 +1,10 @@
+{
+  "name": "Ayush Singh",
+  "email": "Ayushsingh05086@gmail.com",
+  "age": 23,
+  "address": {
+    "city": "Mumbai",
+    "country": "India"
+  },
+  "phone": "1234567890"
+}
